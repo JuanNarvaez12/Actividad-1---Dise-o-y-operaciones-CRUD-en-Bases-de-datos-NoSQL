@@ -1,0 +1,119 @@
+[{
+  "_id": {
+    "$oid": "663d4d0c9957ad2ff113f651"
+  },
+  "nombre": "Alondes Williams",
+  "equipo": "Miami Heat",
+  "posicion": "Base",
+  "nacionalidad": "Estadounidense",
+  "telefono": {
+    "$numberLong": "3153125569"
+  }
+},
+{
+  "_id": {
+    "$oid": "663d4d119957ad2ff113f653"
+  },
+  "nombre": "Jaime Jaquez Jr",
+  "equipo": "Miami Heat",
+  "posicion": "Alero",
+  "nacionalidad": "Estadounidense",
+  "telefono": {
+    "$numberLong": "3246958845"
+  }
+},
+{
+  "_id": {
+    "$oid": "663d4d169957ad2ff113f655"
+  },
+  "nombre": "Ayo Dosunmu",
+  "equipo": "Chicago Bulls",
+  "posicion": "Escolta",
+  "nacionalidad": "Estadounidense",
+  "telefono": {
+    "$numberLong": "3592361547"
+  }
+},
+{
+  "_id": {
+    "$oid": "663d4d229957ad2ff113f656"
+  },
+  "nombre": "Alex Caruso",
+  "equipo": "Chicago Bulls",
+  "posicion": "Aleros",
+  "nacionalidad": "Estadounidense",
+  "telefono": {
+    "$numberLong": "3651249856"
+  }
+},
+{
+  "_id": {
+    "$oid": "663d4d269957ad2ff113f657"
+  },
+  "nombre": "LeBron James",
+  "equipo": "Los Angeles Lakers",
+  "posicion": "Alero",
+  "nacionalidad": "Estadounidense",
+  "telefono": {
+    "$numberLong": "3153456987"
+  }
+},
+{
+  "_id": {
+    "$oid": "663d4d2b9957ad2ff113f658"
+  },
+  "nombre": "Tauren Prince",
+  "equipo": "Los Angeles Lakers",
+  "posicion": "ALA-PIVOTS",
+  "nacionalidad": "Estadounidense",
+  "telefono": {
+    "$numberLong": "3215897784"
+  }
+},
+{
+  "_id": {
+    "$oid": "663d4d329957ad2ff113f659"
+  },
+  "nombre": "Drew Peterson",
+  "equipo": "Boston Celtics",
+  "posicion": "Pivot",
+  "nacionalidad": "Estadounidense",
+  "telefono": {
+    "$numberLong": "3569841214"
+  }
+},
+{
+  "_id": {
+    "$oid": "663d4d379957ad2ff113f65a"
+  },
+  "nombre": "String",
+  "equipo": "String",
+  "posicion": "String",
+  "nacionalidad": "String",
+  "telefono": "String",
+  "documento_identificacion": "String"
+},
+{
+  "_id": {
+    "$oid": "663d4d3b9957ad2ff113f65b"
+  },
+  "nombre": "Al Horford",
+  "equipo": "Boston Celtics",
+  "posicion": "ALA-PIVOT",
+  "nacionalidad": "Estadounidense",
+  "telefono": {
+    "$numberLong": "3781542659"
+  }
+},
+{
+  "_id": {
+    "$oid": "663d4d3f9957ad2ff113f65c"
+  },
+  "nombre": "Sam Hauser",
+  "equipo": "Boston Celtics",
+  "posicion": "Alero",
+  "nacionalidad": "Estadoundense",
+  "telefono": {
+    "$numberLong": "3183654259"
+  }
+}]

@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "663d4c8e9957ad2ff113f641"
+  },
+  "fecha": "Lun, 29/4",
+  "equipo_local": "Los Angeles Lakers",
+  "equipo_visitante": "Miami Heat",
+  "hora_inicio": "01:30pm",
+  "lugar": "Ball Arena",
+  "arbitro_principal": "Dan Crawford",
+  "resultado": {
+    "local": 108,
+    "visitante": 106
+  }
+},
+{
+  "_id": {
+    "$oid": "663d4c989957ad2ff113f642"
+  },
+  "fecha": "Sab, 27/4",
+  "equipo_local": "Boston Celtics",
+  "equipo_visitante": "Chicago Bulls",
+  "hora_inicio": "10:00 AM",
+  "lugar": "Crypton Arena",
+  "arbitro_principal": "Curtis Blair",
+  "resultado": {
+    "local": 108,
+    "visitante": 119
+  }
+}]

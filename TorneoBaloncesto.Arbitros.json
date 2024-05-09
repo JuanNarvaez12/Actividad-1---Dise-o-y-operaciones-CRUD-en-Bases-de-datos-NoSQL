@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "663d4c419957ad2ff113f63a"
+  },
+  "nombre": "Dan Crawford",
+  "nacionalidad": "Estadounidense"
+},
+{
+  "_id": {
+    "$oid": "663d4c599957ad2ff113f63c"
+  },
+  "nombre": "Curtis Blair",
+  "nacionalidad": "Estadounidense"
+},
+{
+  "_id": {
+    "$oid": "663d4c6b9957ad2ff113f63d"
+  },
+  "nombre": "Dick Bavetta",
+  "nacionalidad": "Estadounidense",
+  "encuentros": [
+    "String"
+  ]
+}]

@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "663d4cc59957ad2ff113f647"
+  },
+  "nombre": "Boston Celtics",
+  "capitan": "Marcus Smart",
+  "entrenador": "Joe Mazzulla"
+},
+{
+  "_id": {
+    "$oid": "663d4ccc9957ad2ff113f648"
+  },
+  "nombre": "Los Angeles Lakers",
+  "capitan": "LeBron James",
+  "entrenador": "Darvin Ham"
+},
+{
+  "_id": {
+    "$oid": "663d4cd19957ad2ff113f649"
+  },
+  "nombre": "Chicago Bulls",
+  "capitan": "Zach LaVine",
+  "entrenador": "Billy Donovan"
+},
+{
+  "_id": {
+    "$oid": "663d4cd59957ad2ff113f64a"
+  },
+  "nombre": "Miami Heat",
+  "capitan": "Terry Rozier",
+  "entrenador": "Erik Spoelstra"
+}]

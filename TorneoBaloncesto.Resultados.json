@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "663d4cea9957ad2ff113f64d"
+  },
+  "encuentro": "Ronda 1",
+  "equipo_local": "Los Angeles Lakers",
+  "equipo_visitante": "Miami Heat",
+  "marcador_final": {
+    "local": 108,
+    "visitante": 106
+  }
+},
+{
+  "_id": {
+    "$oid": "663d4cef9957ad2ff113f64e"
+  },
+  "encuentro": "Ronda 2",
+  "equipo_local": "Boston Celtics",
+  "equipo_visitante": "Chicago Bulls",
+  "marcador_final": {
+    "local": 108,
+    "visitante": 119
+  }
+}]
